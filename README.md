@@ -1,6 +1,6 @@
 # smart_app
 
-A new Flutter project.
+스마트 가계부 팀프로젝트 깃
 
 ## Getting Started
 
